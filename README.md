@@ -148,7 +148,7 @@ plt.show()
 ```
 
 
-![png](output\\output_7_0.png)
+![png](output/output_7_0.png)
 
 
 ## Income / Age
@@ -161,7 +161,7 @@ plt.show()
 ```
 
 
-![png](output\\output_9_0.png)
+![png](output/output_9_0.png)
 
 
 Transform target to 0 or 1 (0 for <=50k, 1 for > 50k).
@@ -186,7 +186,7 @@ plt.show()
 ```
 
 
-![png](output\\output_13_0.png)
+![png](output/output_13_0.png)
 
 
 ## Education Num vs Income
@@ -199,7 +199,7 @@ g = g.set_ylabels(">50K probability")
 ```
 
 
-![png](output\\output_15_0.png)
+![png](output/output_15_0.png)
 
 
 ## Relationship vs Income
@@ -213,7 +213,7 @@ plt.show()
 ```
 
 
-![png](output\\output_17_0.png)
+![png](output/output_17_0.png)
 
 
 ## Now transform features
@@ -300,7 +300,7 @@ plt.show()
 ```
 
 
-![png](output\\output_24_0.png)
+![png](output/output_24_0.png)
 
 
 ## Best algorithm score is RF, accuracy: 0.85
