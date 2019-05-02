@@ -3,7 +3,7 @@
 
 We will use the census data set, to predict annual income greater or less than 50k using classification method.<br>
 Created by <i>LuccasDev</i>
-<p>See on github: <a src="www.github.com/luccasdev">LuccasDev</a></p>
+Follow me :)
 
 ## • Let's go analyze the dataset
 
@@ -325,6 +325,5 @@ print(classification_report(Y_validation, predictions))
     
     avg / total       0.85      0.86      0.86      6513
     
-    
 
-<p>See on github: <a src="www.github.com/luccasdev">LuccasDev</a></p>
+Follow me :)
